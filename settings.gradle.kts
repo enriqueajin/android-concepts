@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Android Concepts"
 include(":app")
- 
+include(":push-notifications-fcm")
